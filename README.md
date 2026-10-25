@@ -1,5 +1,5 @@
 # GlobalRadioAndSpotifyForFH2
-Global radio AND spotify integration for FH2, based on Bullet4fun spotify radio's mod, this one needs his mod loader, https://github.com/Bullet4fun/FH2_ModLoader, to install it, all you gotta do is:
+Global radio AND spotify integration for FH2, based on Bullet4fun spotify radio's mod, this one needs his mod loader, https://github.com/Bullet4fun/FH2_ModLoader, then  to install the mod, all you gotta do is:
 # DISCLAIMERRRRRR
 THIS MOD HAS BEEN PARTIALLY MADE WITH **AI!!** (Mostly to reverse engineer shit of bullet because i did not trust his own dlls and didn't want to risk my shit, the other part was to make a logo, no **THE LOGO ITSELF ISN'T AI GENERATED**, ALL THE ICONS AND STUFF ARE OF REAL HUMAN BEINGS, I SIMPLY USED THE AI TO MAKE THEM IMAGES FUSE INTO ONE, i am too poor for photoshop or make proper alligned images withouth it, as far as ik its possible in some way with paint.net)
 
