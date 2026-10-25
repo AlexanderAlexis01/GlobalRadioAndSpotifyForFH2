@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/icon.png" width="128">
+</p>
+
 # GlobalRadioAndSpotifyForFH2
 Global radio AND spotify integration for FH2, based on Bullet4fun spotify radio's mod, this one needs his mod loader, https://github.com/Bullet4fun/FH2_ModLoader, then  to install the mod, all you gotta do is:
 # DISCLAIMERRRRRR
