@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/icon.png" width="128">
+  <img src="icon.png" width="128">
 </p>
 
 # GlobalRadioAndSpotifyForFH2
